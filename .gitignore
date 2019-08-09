@@ -6,3 +6,5 @@ config.cfg
 maps/graphs
 user_custom
 downloadlists
+stats.txt
+voice_ban.dt
