@@ -1,0 +1,2 @@
+// Game specific definitions
+"$game"	"The Epic Mod"
